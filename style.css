@@ -1,0 +1,44 @@
+.input-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.Heading{
+background-color: green;
+margin-bottom: 50px;
+}
+
+.Heading h1{
+color: white;
+text-align: center;
+padding-top: 50px;
+}
+
+.Heading label{
+    color: lightgray;
+}
+
+.SubmitBtn{
+background-color: yellow;
+border: 2px solid;
+color: Green;
+border-radius: 4px;
+padding: 10px 24px;
+}
+
+.SubmitBtn:hover{
+    background-color: white; /* Green */
+    color: green;
+    border: 2px solid;
+    border-color: yellow;
+    }
+
+.ListItems{
+
+    display:flex;
+    align-items: center;
+    padding: 50px 50px 50px 50px;
+    background-color: aqua ;
+}
+
